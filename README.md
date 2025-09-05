@@ -21,12 +21,6 @@ I specialize in creating **pixel-perfect UI**, crafting smooth user experiences,
 - ✅ Optimize apps for **performance & scalability**  
 - ✅ Collaborate using **Git & GitHub**  
 
-## 📊 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Manzer&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farhan-Manzer&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farhan-Manzer&theme=radical)  
-
 ## 📫 Let’s Connect  
 📧 **Email:** farhanmanzer440gmail.com  
 💼 **LinkedIn:** [Farhan Manzer](https://www.linkedin.com/in/farhan-manzer-33b01b208)  
